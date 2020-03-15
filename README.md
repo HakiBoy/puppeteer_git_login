@@ -26,8 +26,10 @@ npm install
 it should take a little bit time to install dependency on your machine
 
 ## Before running server
-change file name .env_sample to .env
-replace PUT_USER_NAME_HERE and PUT_PASSWORD_HERE with your github username and password
+Change file name .env_sample to .env
+```
+Then replace PUT_USER_NAME_HERE and PUT_PASSWORD_HERE with your github username and password
+```
 
 ## Running the server
 Put this command to you terminal at root of project
